@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+org.eclipse.debug.core.PREF_BREAKPOINT_MANAGER_ENABLED_STATE=false
+prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<watchExpressions>\n<expression enabled\="true" text\="method.getName()"/>\n<expression enabled\="true" text\="GENERIC_ACCESSOR_METHOD_PATTERN.concat(fieldName)"/>\n<expression enabled\="true" text\="fieldName"/>\n</watchExpressions>\n

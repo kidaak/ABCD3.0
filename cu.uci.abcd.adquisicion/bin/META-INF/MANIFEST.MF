@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-Version: 1.0.0
+Bundle-Name: Adquisicion
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: cu.uci.abcd.adquisicion
+Export-Package: cu.uci.abcd.adquisicion;version="1.0.0"
+Import-Package: cu.uci.abcd.dataprovider.jisis.exception;version="[1.0.0,1.0.0]",
+ org.unesco.jisis.corelib.exceptions,
+ org.unesco.jisis.corelib.record
+

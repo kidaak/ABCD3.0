@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/abcd/!svn/ver/1732/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model
+END
+_WorkerUpdateArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/abcd/!svn/ver/1299/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/_WorkerUpdateArea.java
+END
+WorkerUpdateArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/abcd/!svn/ver/1636/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/WorkerUpdateArea.java
+END
+CirculationRuleAddArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/abcd/!svn/ver/1299/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/CirculationRuleAddArea.java
+END
+LibraryAddArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/abcd/!svn/ver/1722/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/LibraryAddArea.java
+END
+_CirculationRuleEditionArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/abcd/!svn/ver/1299/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/_CirculationRuleEditionArea.java
+END
+_FormationCourseUpdateArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/abcd/!svn/ver/1299/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/_FormationCourseUpdateArea.java
+END
+WorkerAddArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/abcd/!svn/ver/1722/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/WorkerAddArea.java
+END
+PersonGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/abcd/!svn/ver/1484/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/PersonGrid.java
+END
+ProviderViewArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/abcd/!svn/ver/1722/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/ProviderViewArea.java
+END
+WorkerGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/abcd/!svn/ver/1636/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/WorkerGrid.java
+END
+_ProviderUpdateArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/abcd/!svn/ver/1299/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/_ProviderUpdateArea.java
+END
+ProviderUpdateArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/abcd/!svn/ver/1426/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/ProviderUpdateArea.java
+END
+LibraryViewArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/abcd/!svn/ver/1636/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/LibraryViewArea.java
+END
+CirculationRuleViewArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/abcd/!svn/ver/1426/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/CirculationRuleViewArea.java
+END
+CoinAddArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/abcd/!svn/ver/1664/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/CoinAddArea.java
+END
+_HoraryUpdateArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/abcd/!svn/ver/1299/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/_HoraryUpdateArea.java
+END
+LibraryUpdateArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/abcd/!svn/ver/1722/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/LibraryUpdateArea.java
+END
+ProviderGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/abcd/!svn/ver/1664/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/ProviderGrid.java
+END
+CirculationRuleUpdateArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/abcd/!svn/ver/1426/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/CirculationRuleUpdateArea.java
+END
+FormationCourseViewArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/abcd/!svn/ver/1426/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/FormationCourseViewArea.java
+END
+_CalendarUpdateArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/abcd/!svn/ver/1299/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/_CalendarUpdateArea.java
+END
+_HoraryAddArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/abcd/!svn/ver/1299/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/_HoraryAddArea.java
+END
+_HoraryGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/abcd/!svn/ver/1426/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/_HoraryGrid.java
+END
+CirculationRuleGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/abcd/!svn/ver/1426/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/CirculationRuleGrid.java
+END
+LibraryGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/abcd/!svn/ver/1664/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/LibraryGrid.java
+END
+FormationCourseUpdateArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/abcd/!svn/ver/1636/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/FormationCourseUpdateArea.java
+END
+CoinViewArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/abcd/!svn/ver/1426/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/CoinViewArea.java
+END
+_CalendarGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/abcd/!svn/ver/1299/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/_CalendarGrid.java
+END
+CalendarGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/abcd/!svn/ver/1732/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/CalendarGrid.java
+END
+FormationCourseAddArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/abcd/!svn/ver/1636/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/FormationCourseAddArea.java
+END
+_CoinUpdateArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/abcd/!svn/ver/1299/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/_CoinUpdateArea.java
+END
+CoinUpdateArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/abcd/!svn/ver/1426/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/CoinUpdateArea.java
+END
+FormationCourseGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/abcd/!svn/ver/1636/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/FormationCourseGrid.java
+END
+ProviderAddArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/abcd/!svn/ver/1722/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/ProviderAddArea.java
+END
+WorkerViewArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/abcd/!svn/ver/1567/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/WorkerViewArea.java
+END
+CoinGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/abcd/!svn/ver/1664/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/cu/uci/abcd/administration/library/ui/model/CoinGrid.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/abcd/!svn/ver/1369/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/META-INF/spring
+END
+osgi-module-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/abcd/!svn/ver/1722/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/META-INF/spring/osgi-module-context.xml
+END
+bean-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/abcd/!svn/ver/1567/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.ui/src/META-INF/spring/bean-context.xml
+END

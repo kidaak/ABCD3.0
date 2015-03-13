@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Bundle-Version: 1.0.0
+Bundle-Name: L10n
+Bundle-ManifestVersion: 2
+Bundle-Description: Internationalization bundle
+Bundle-SymbolicName: cu.uci.abos.l10n
+Import-Bundle: org.eclipse.rap.rwt;version="[2.3.0,4.0.0)"
+Export-Package: cu.uci.abos.l10n;version="1.0.0",
+ cu.uci.abos.l10n.adquisition;version="1.0.0",
+ cu.uci.abos.l10n.cataloguing;version="1.0.0",
+ cu.uci.abos.l10n.circulation;version="1.0.0",
+ cu.uci.abos.l10n.management.db;version="1.0.0",
+ cu.uci.abos.l10n.management.library;version="1.0.0",
+ cu.uci.abos.l10n.management.nomenclator;version="1.0.0",
+ cu.uci.abos.l10n.platform;version="1.0.0",
+ cu.uci.abos.l10n.util;version="1.0.0"
+Import-Package: org.osgi.framework;version="[1.7.0,1.7.0]"
+

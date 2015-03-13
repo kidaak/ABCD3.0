@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/abcd/!svn/ver/1699/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/listener
+END
+EventSave.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/abcd/!svn/ver/1658/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/listener/EventSave.java
+END
+EventServersSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/abcd/!svn/ver/1699/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/listener/EventServersSearch.java
+END
+TabItemResizeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/abcd/!svn/ver/1671/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/listener/TabItemResizeListener.java
+END
+EventTreePoints.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/abcd/!svn/ver/1192/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/listener/EventTreePoints.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/abcd/!svn/ver/1450/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/domain
+END
+ListaDeEjemplaresDelRegistroDeAdquisicionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/abcd/!svn/ver/1450/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/domain/ListaDeEjemplaresDelRegistroDeAdquisicionEntity.java
+END
+ListadoDePedidosPendientesEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/abcd/!svn/ver/1311/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/domain/ListadoDePedidosPendientesEntity.java
+END
+ListadoDeRegistroDeAdquisicionesEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/abcd/!svn/ver/1450/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/domain/ListadoDeRegistroDeAdquisicionesEntity.java
+END

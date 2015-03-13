@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-Version: 1.0.0
+Bundle-Name: Impl
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: cu.uci.abcd.administration.library.impl
+Import-Package: cu.uci.abcd.administration.library;version="[1.0.0,1.0.0]",
+ cu.uci.abcd.dao.common;version="[1.0.0,1.0.0]",
+ cu.uci.abcd.dao.management.library;version="[1.0.0,1.0.0]",
+ cu.uci.abcd.domain.common;version="[1.0.0,1.0.0]",
+ cu.uci.abcd.domain.management.library;version="[1.0.0,1.0.0]",
+ javax.persistence;version="[2.0.4,2.0.4]",
+ org.springframework.data.domain,
+ org.springframework.data.jpa.domain
+Import-Bundle: org.springframework.data.core;version="[1.4.1.RELEASE,1.4.1.RELEASE]"
+

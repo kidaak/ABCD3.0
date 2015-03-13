@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans:beans xmlns="http://www.springframework.org/schema/osgi"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:beans="http://www.springframework.org/schema/beans"
+	xsi:schemaLocation="http://www.springframework.org/schema/osgi  
+        http://www.springframework.org/schema/osgi/spring-osgi.xsd
+        http://www.springframework.org/schema/beans   
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<reference id="loanUserDAO" interface="cu.uci.abcd.dao.circulation.LoanUserDAO">
+		<listener bind-method="bind" ref="loanUserService" />
+	</reference>
+	<reference id="loanUserTypeDAO" interface="cu.uci.abcd.dao.circulation.LoanUserTypeDAO">
+		<listener bind-method="bind1" ref="loanUserService" />
+	</reference>
+	
+	<service ref="loanUserService" interface="cu.uci.abcd.circulation.ILoanUserService" />
+	
+	
+	<reference id="personDAO" interface="cu.uci.abcd.dao.common.PersonDAO">
+	<listener bind-method="bind" ref="personService" />
+	</reference>
+	<service ref="personService" interface="cu.uci.abcd.circulation.IPersonService" />
+	
+	
+	<reference id="penaltyDAO" interface="cu.uci.abcd.dao.circulation.PenaltyDAO">
+	<listener bind-method="bind" ref="penaltyService" />
+	</reference>
+	<reference id="coinDAO" interface="cu.uci.abcd.dao.management.library.CoinDAO">
+		<listener bind-method="bind1" ref="penaltyService" />
+	</reference>
+	
+	<service ref="penaltyService" interface="cu.uci.abcd.circulation.IPenaltyService" />
+	
+	
+	<reference id="reservationDAO" interface="cu.uci.abcd.dao.circulation.ReservationDAO">
+	<listener bind-method="bind" ref="reservationService" />
+	</reference>
+	<service ref="reservationService" interface="cu.uci.abcd.circulation.IReservationService" />
+	
+	
+	<reference id="transactionDAO" interface="cu.uci.abcd.dao.circulation.TransactionDAO">
+	<listener bind-method="bind" ref="transactionService" />
+	</reference>
+	<service ref="transactionService" interface="cu.uci.abcd.circulation.ITransactionService" />
+	
+	
+</beans:beans>

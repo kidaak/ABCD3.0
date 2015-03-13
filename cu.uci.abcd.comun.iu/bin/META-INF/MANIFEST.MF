@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: cu.uci.abcd.comun.iu
+Bundle-Version: 1.0.0
+Bundle-Name: Iu
+Bundle-ManifestVersion: 2
+

@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: cu.uci.abcd.statistic.impl
+Bundle-Version: 1.0.0
+Bundle-Name: Impl
+Bundle-ManifestVersion: 2
+

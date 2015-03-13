@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/abcd/!svn/ver/1447/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.opac.ui/src/cu/uci/abcd/opac/ui
+END
+OpacContributorServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/abcd/!svn/ver/1387/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.opac.ui/src/cu/uci/abcd/opac/ui/OpacContributorServiceImpl.java
+END
+OpacShellProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/abcd/!svn/ver/1400/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.opac.ui/src/cu/uci/abcd/opac/ui/OpacShellProvider.java
+END
+OpacLayoutContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/abcd/!svn/ver/1387/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.opac.ui/src/cu/uci/abcd/opac/ui/OpacLayoutContextImpl.java
+END
+OpacLayoutProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/abcd/!svn/ver/1447/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.opac.ui/src/cu/uci/abcd/opac/ui/OpacLayoutProviderImpl.java
+END
+OpacShellConfigurator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/abcd/!svn/ver/1387/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.opac.ui/src/cu/uci/abcd/opac/ui/OpacShellConfigurator.java
+END
+EntryPointServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/abcd/!svn/ver/1387/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.opac.ui/src/cu/uci/abcd/opac/ui/EntryPointServiceImpl.java
+END
+OpacEntryPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/abcd/!svn/ver/1434/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.opac.ui/src/cu/uci/abcd/opac/ui/OpacEntryPoint.java
+END

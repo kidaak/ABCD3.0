@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.virgo.ide.jdt.core.MANIFEST_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="src" path="/cu.uci.abcd.dao"/>
+	<classpathentry kind="lib" path="/home/leandro/ABCD-3.0-Work/repository/ext/org.osgi.enterprise_4.2.0.v201108120515.jar"/>
+	<classpathentry kind="lib" path="/home/leandro/ABCD-3.0-Work/repository/usr/org.eclipse.equinox.security_1.2.0.v20130424-1801.jar"/>
+	<classpathentry kind="src" path="/cu.uci.abcd.domain"/>
+	<classpathentry kind="src" path="/cu.uci.abcd.management.security"/>
+	<classpathentry kind="src" path="/cu.uci.abos.api"/>
+	<classpathentry kind="lib" path="/home/leandro/ABCD-3.0-Work/plugins/org.eclipse.osgi_3.8.2.v20130124-134944.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

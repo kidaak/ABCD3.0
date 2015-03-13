@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/abcd/!svn/ver/1723/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dao/src/cu/uci/abcd/dao/common
+END
+WorkerTypeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/abcd/!svn/ver/1490/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dao/src/cu/uci/abcd/dao/common/WorkerTypeDAO.java
+END
+AccountDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/abcd/!svn/ver/1694/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dao/src/cu/uci/abcd/dao/common/AccountDAO.java
+END
+EmailAddressDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/abcd/!svn/ver/1272/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dao/src/cu/uci/abcd/dao/common/EmailAddressDAO.java
+END
+LoanObjectDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/abcd/!svn/ver/1326/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dao/src/cu/uci/abcd/dao/common/LoanObjectDAO.java
+END
+RecordTypeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/abcd/!svn/ver/1472/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dao/src/cu/uci/abcd/dao/common/RecordTypeDAO.java
+END
+NomenclatorDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/abcd/!svn/ver/1721/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dao/src/cu/uci/abcd/dao/common/NomenclatorDAO.java
+END
+PhoneNumberDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/abcd/!svn/ver/1272/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dao/src/cu/uci/abcd/dao/common/PhoneNumberDAO.java
+END
+UrlDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/abcd/!svn/ver/1272/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dao/src/cu/uci/abcd/dao/common/UrlDAO.java
+END
+ApplicationDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/abcd/!svn/ver/1272/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dao/src/cu/uci/abcd/dao/common/ApplicationDAO.java
+END
+PersonDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/abcd/!svn/ver/1272/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dao/src/cu/uci/abcd/dao/common/PersonDAO.java
+END
+PostalAddressDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/abcd/!svn/ver/1642/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dao/src/cu/uci/abcd/dao/common/PostalAddressDAO.java
+END

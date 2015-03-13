@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Bundle-Version: 1.0.0
+Bundle-Name: Iu
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: cu.uci.abcd.administracion.biblioteca.iu
+Import-Package: cu.uci.abcd.administration.library;version="[1.0.0,1.0.0]",
+ cu.uci.abcd.dao.common;version="[1.0.0,1.0.0]",
+ cu.uci.abcd.dao.management.library;version="[1.0.0,1.0.0]",
+ cu.uci.abcd.domain.common;version="[1.0.0,1.0.0]",
+ cu.uci.abcd.domain.management.library;version="[1.0.0,1.0.0]",
+ cu.uci.abcd.management.security;version="[1.0.0,1.0.0]",
+ cu.uci.abos.core.ui;version="[1.0.0,1.0.0]",
+ cu.uci.abos.l10n;version="[1.0.0,1.0.0]",
+ cu.uci.abos.l10n.management.library;version="[1.0.0,1.0.0]",
+ cu.uci.abos.l10n.util;version="[1.0.0,1.0.0]",
+ cu.uci.abos.ui.api;version="[1.0.0,1.0.0]",
+ cu.uci.abos.util.api;version="[1.0.0,1.0.0]",
+ cu.uci.abos.validation.ui;version="[1.0.0,1.0.0]",
+ cu.uci.abos.widget.compoundLabel,
+ cu.uci.abos.widgets.grid;version="[1.2.5,1.2.5]",
+ javax.servlet.http;version="[2.6.0,2.6.0]"
+Import-Bundle: org.eclipse.rap.rwt;version="[3.0.0.20141110-1349,3.0.0.20141110-1349]"
+

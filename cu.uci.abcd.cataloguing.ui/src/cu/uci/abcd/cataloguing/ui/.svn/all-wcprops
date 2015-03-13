@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/abcd/!svn/ver/1699/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/ui
+END
+RegistrarRegistroEjemplar.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/abcd/!svn/ver/1699/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/ui/RegistrarRegistroEjemplar.java
+END
+AttachDigitalFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/abcd/!svn/ver/1671/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/ui/AttachDigitalFile.java
+END
+FindServersZ3950.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/abcd/!svn/ver/1658/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/ui/FindServersZ3950.java
+END
+RegistrarRegistroAutoridades.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/abcd/!svn/ver/1671/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/ui/RegistrarRegistroAutoridades.java
+END
+ConsultAuthorities.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/abcd/!svn/ver/1566/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/ui/ConsultAuthorities.java
+END
+ConsultMaterialsCataloger.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/abcd/!svn/ver/1566/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/ui/ConsultMaterialsCataloger.java
+END
+NewSubscription1.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/abcd/!svn/ver/1566/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/ui/NewSubscription1.java
+END
+NewSubscription2.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/abcd/!svn/ver/1566/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/ui/NewSubscription2.java
+END
+ConsultCatalog.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/abcd/!svn/ver/1699/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/ui/ConsultCatalog.java
+END
+ConsultSubscriptionPeriodicalPublication.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/abcd/!svn/ver/1566/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/ui/ConsultSubscriptionPeriodicalPublication.java
+END
+AttachDigitalFile2.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/abcd/!svn/ver/1671/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/ui/AttachDigitalFile2.java
+END
+SearchAuthorities.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/abcd/!svn/ver/1566/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/ui/SearchAuthorities.java
+END
+AssociateThesaurusTerms.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/abcd/!svn/ver/1566/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/ui/AssociateThesaurusTerms.java
+END
+NewSubscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/abcd/!svn/ver/1566/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/ui/NewSubscription.java
+END
+PredictionPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/abcd/!svn/ver/1611/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.cataloguing.ui/src/cu/uci/abcd/cataloguing/ui/PredictionPattern.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/abcd/!svn/ver/1384/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.api/src/cu/uci/abos/util/api
+END
+Digest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/abcd/!svn/ver/1384/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.api/src/cu/uci/abos/util/api/Digest.java
+END
+SWTEventHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/abcd/!svn/ver/488/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.api/src/cu/uci/abos/util/api/SWTEventHelper.java
+END
+FormDatas.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/abcd/!svn/ver/544/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.api/src/cu/uci/abos/util/api/FormDatas.java
+END
+MessageDialogUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/abcd/!svn/ver/695/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.api/src/cu/uci/abos/util/api/MessageDialogUtil.java
+END
+IServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/abcd/!svn/ver/422/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.api/src/cu/uci/abos/util/api/IServiceProvider.java
+END
+ServiceProviderUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/abcd/!svn/ver/454/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.api/src/cu/uci/abos/util/api/ServiceProviderUtil.java
+END

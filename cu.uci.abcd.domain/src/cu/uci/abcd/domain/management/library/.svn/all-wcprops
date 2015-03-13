@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/abcd/!svn/ver/1674/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.domain/src/cu/uci/abcd/domain/management/library
+END
+FormationCourse.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/abcd/!svn/ver/1550/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.domain/src/cu/uci/abcd/domain/management/library/FormationCourse.java
+END
+PenaltyEquation.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/abcd/!svn/ver/1583/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.domain/src/cu/uci/abcd/domain/management/library/PenaltyEquation.java
+END
+Library.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/abcd/!svn/ver/1635/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.domain/src/cu/uci/abcd/domain/management/library/Library.java
+END
+Coin.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/abcd/!svn/ver/1515/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.domain/src/cu/uci/abcd/domain/management/library/Coin.java
+END
+Calendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/abcd/!svn/ver/1515/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.domain/src/cu/uci/abcd/domain/management/library/Calendar.java
+END
+HolidayDayType.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/abcd/!svn/ver/1432/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.domain/src/cu/uci/abcd/domain/management/library/HolidayDayType.java
+END
+Worker.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/abcd/!svn/ver/1515/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.domain/src/cu/uci/abcd/domain/management/library/Worker.java
+END
+Provider.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/abcd/!svn/ver/1674/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.domain/src/cu/uci/abcd/domain/management/library/Provider.java
+END
+ProviderType.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/abcd/!svn/ver/1432/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.domain/src/cu/uci/abcd/domain/management/library/ProviderType.java
+END

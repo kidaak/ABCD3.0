@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-time="2" configuration-id="/Servers/Virgo Runtime at localhost-config" hostname="localhost" id="Virgo Runtime at localhost" name="Virgo Runtime at localhost" runtime-id="Virgo Runtime" server-type="org.eclipse.virgo.server.virgo" server-type-id="org.eclipse.virgo.server.virgo" start-timeout="300" stop-timeout="300" timestamp="85">
+    <list key="modules" value0="cu.uci.abos.widget.repeatable.field::org.eclipse.virgo.server.modulefactory:cu.uci.abos.widget.repeatable.field::org.eclipse.virgo.server.bundle::1.0" value1="cu.uci.abos.widget.template.component::org.eclipse.virgo.server.modulefactory:cu.uci.abos.widget.template.component::org.eclipse.virgo.server.bundle::1.0" value2="cu.uci.abcd.cataloguing::org.eclipse.virgo.server.modulefactory:cu.uci.abcd.cataloguing::org.eclipse.virgo.server.bundle::1.0" value3="cu.uci.abcd.cataloguing.impl::org.eclipse.virgo.server.modulefactory:cu.uci.abcd.cataloguing.impl::org.eclipse.virgo.server.bundle::1.0" value4="cu.uci.abcd.cataloguing.ui::org.eclipse.virgo.server.modulefactory:cu.uci.abcd.cataloguing.ui::org.eclipse.virgo.server.bundle::1.0"/>
+  </server>
+</servers>

@@ -1,0 +1,838 @@
+2015-01-28 18:23:19,666 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:23:21,324 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:23:59,269 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:24:00,608 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:24:23,258 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:24:24,672 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:24:43,369 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:24:44,672 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:25:09,437 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:25:10,784 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:26:11,301 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:26:12,460 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:31:48,197 [Worker-15] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:31:49,463 [Worker-15] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:32:20,416 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:32:21,761 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:32:36,351 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:32:37,555 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:32:56,173 [Worker-15] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:32:57,384 [Worker-15] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:33:18,304 [Worker-15] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:33:19,480 [Worker-15] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:33:35,360 [Worker-14] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:33:36,546 [Worker-14] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:34:06,581 [Worker-18] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:34:07,825 [Worker-18] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:34:48,291 [Worker-17] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:34:49,486 [Worker-17] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:35:04,207 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:35:05,824 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:35:26,794 [Worker-14] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:35:27,959 [Worker-14] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:39:26,196 [Worker-16] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:39:27,364 [Worker-16] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:39:57,067 [Worker-22] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:39:58,279 [Worker-22] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:41:21,254 [Worker-21] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:41:22,646 [Worker-21] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:41:43,575 [Worker-21] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:41:44,816 [Worker-21] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:42:04,313 [Worker-23] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:42:05,578 [Worker-23] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:42:21,214 [Worker-16] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:42:22,444 [Worker-16] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:42:38,289 [Worker-23] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:42:39,473 [Worker-23] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:42:54,557 [Worker-24] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:42:55,752 [Worker-24] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:44:17,253 [Worker-24] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:44:18,436 [Worker-24] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:45:33,398 [Worker-24] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:45:34,612 [Worker-24] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:45:55,281 [Worker-16] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:45:56,519 [Worker-16] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:46:10,360 [Worker-16] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:46:11,582 [Worker-16] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-01-28 18:46:28,206 [Worker-21] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-01-28 18:46:29,426 [Worker-21] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:46:56,088 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:46:56,123 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:46:56,128 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:46:56,269 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:46:59,264 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:46:59,345 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:46:59,446 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:46:59,451 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:00,767 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:00,773 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:00,945 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:01,070 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:03,837 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:03,966 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:03,979 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:04,198 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:05,420 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:05,668 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:05,682 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:05,754 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:08,215 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:08,295 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:08,919 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:08,959 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:10,168 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:10,316 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:10,343 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:10,427 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:12,702 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:12,898 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:13,007 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:13,111 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:14,495 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:14,516 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:14,546 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:15,318 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:17,546 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:17,605 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:17,692 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:17,906 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:19,005 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:19,125 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:19,171 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:19,569 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:22,307 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:22,393 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:22,637 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:22,920 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:23,961 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:24,098 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:24,104 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:25,307 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:29,027 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:29,750 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:29,872 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:30,516 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:32,282 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:33,644 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:33,660 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:33,697 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:39,441 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:39,888 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:40,894 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:41,007 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:41,859 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:43,288 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:43,310 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:47,623 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:47,905 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:47,928 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:47:55,012 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:47:57,367 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:48:28,536 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:48:33,248 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:48:35,790 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:48:35,847 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:48:41,950 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:48:46,498 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:48:46,874 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:48:46,891 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:48:48,858 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:48:55,547 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:48:58,278 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:48:58,288 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:49:07,092 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:49:10,900 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:49:12,349 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:49:12,483 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:49:16,728 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:49:17,840 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:49:25,306 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:49:29,297 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:49:38,263 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:49:41,158 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:49:43,384 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:49:47,003 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:50:02,248 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:50:04,749 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:50:22,807 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:51:07,479 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:51:17,193 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:52:33,183 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:52:38,092 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:52:41,198 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:18,216 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:19,905 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:23,040 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:26,142 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:26,297 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:26,398 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:27,348 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:30,184 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:31,675 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:31,978 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:32,150 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:34,449 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:34,451 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:34,969 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:35,045 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:38,625 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:39,324 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:39,353 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:39,612 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:40,806 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:40,843 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:41,123 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:41,140 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:42,454 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:43,533 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:43,588 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:43,739 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:44,880 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:45,008 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:45,152 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:45,216 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:46,794 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:47,466 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:47,655 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:47,759 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:48,974 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:49,003 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:50,099 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:50,173 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:51,572 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:52,559 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:52,659 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:52,684 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:54,149 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:54,204 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:54,207 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:54,566 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:55,878 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:56,652 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:56,770 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:56,892 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:58,208 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:58:58,286 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:58,554 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:58,590 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:58:59,695 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:59:00,913 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:59:01,340 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:59:01,512 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:59:02,172 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 14:59:02,196 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 14:59:03,443 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:03:46,086 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:03:47,286 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:03:48,610 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:03:48,651 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:03:48,657 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:03:48,823 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:03:51,043 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:03:51,188 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:03:51,208 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:03:51,210 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:03:52,521 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:03:52,571 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:03:52,601 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:03:52,724 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:03:54,930 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:03:55,149 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:03:55,152 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:03:55,180 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:04:30,906 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:04:30,942 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:04:30,961 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:04:31,097 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:04:33,684 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:04:33,693 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:04:33,720 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:04:33,861 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:04:35,353 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:04:35,494 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:04:35,494 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:04:35,594 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:04:38,045 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:04:38,106 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:04:38,183 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:04:38,238 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:27,712 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:28,989 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:37,534 [ModalContext] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:38,693 [ModalContext] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:40,136 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:40,316 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:40,342 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:40,392 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:42,577 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:42,712 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:42,838 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:42,885 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:43,929 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:44,222 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:44,278 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:44,341 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:48,126 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:48,365 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:48,431 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:48,455 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:49,564 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:49,731 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:49,838 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:50,096 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:52,011 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:52,200 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:52,308 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:52,371 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:53,564 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:53,702 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:53,735 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:53,803 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:56,945 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:57,040 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:57,182 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:57,198 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:18:58,297 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:58,366 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:58,547 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:18:58,585 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:00,738 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:00,907 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:00,965 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:00,999 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:02,255 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:02,278 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:02,356 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:02,385 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:04,596 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:04,702 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:04,710 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:04,837 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:05,962 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:06,198 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:06,275 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:06,394 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:08,352 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:08,669 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:08,731 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:08,732 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:09,824 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:10,076 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:10,152 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:10,176 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:12,260 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:12,558 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:12,601 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:12,792 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:13,711 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:14,006 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:14,028 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:14,069 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:16,073 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:16,313 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:16,315 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:16,367 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:17,360 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:19,494 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:19,528 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:19:21,342 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:21,449 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:19:21,741 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:01,912 [ModalContext] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:03,066 [ModalContext] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:04,479 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:04,576 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:04,788 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:05,056 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:07,066 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:07,134 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:07,295 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:07,461 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:08,482 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:08,563 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:08,749 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:08,873 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:10,861 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:10,862 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:11,043 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:11,335 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:12,377 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:12,389 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:12,530 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:12,578 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:14,735 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:14,771 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:14,862 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:14,931 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:16,346 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:16,360 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:16,383 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:16,697 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:18,878 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:18,881 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:18,993 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:19,092 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:20,370 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:20,409 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:20,451 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:20,610 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:23,002 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:23,028 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:23,263 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:23,319 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:24,433 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:24,820 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:24,869 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:25,194 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:27,112 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:27,538 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:27,595 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:27,766 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:28,700 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:28,997 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:31,557 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:31,592 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:33,758 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:34,081 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:34,274 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:34,382 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:35,345 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:35,565 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:35,684 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:35,852 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:37,934 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:38,104 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:38,201 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:38,410 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:39,342 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:39,546 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:39,758 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:39,805 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:43,778 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:43,822 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:44,030 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:44,167 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:45,241 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:45,251 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:45,436 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:20:47,127 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:47,391 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:20:47,511 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-03 15:23:35,145 [ModalContext] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-03 15:23:36,354 [ModalContext] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 10:34:46,336 [Worker-22] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 10:34:46,352 [Worker-21] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 10:34:48,912 [Worker-21] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 10:34:49,017 [Worker-22] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 10:39:38,176 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 10:39:39,799 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 10:52:31,513 [Worker-39] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 10:52:33,566 [Worker-39] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 11:01:23,952 [Worker-36] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 11:01:25,321 [Worker-36] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 11:27:35,533 [Worker-108] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 11:27:37,126 [Worker-108] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 11:28:39,156 [Worker-109] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 11:28:40,443 [Worker-109] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 11:28:41,453 [Worker-111] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 11:28:41,565 [Worker-106] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 11:28:43,258 [Worker-111] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 11:28:43,402 [Worker-106] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 11:29:20,052 [Worker-111] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 11:29:21,362 [Worker-111] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 11:42:25,336 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 11:42:30,707 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 11:42:51,586 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 11:42:53,060 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 11:43:50,891 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 11:43:52,195 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 11:47:09,053 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 11:47:14,634 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 11:47:58,907 [ModalContext] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 11:48:00,282 [ModalContext] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 11:48:02,076 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 11:48:02,185 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 11:48:04,054 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 11:48:04,224 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 11:51:31,296 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 11:51:32,503 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 11:54:24,630 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 11:54:26,104 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 14:02:37,477 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 14:02:38,930 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 14:02:49,467 [ModalContext] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 14:02:50,872 [ModalContext] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 14:02:52,913 [Worker-41] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 14:02:53,012 [Worker-38] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 14:02:53,666 [Worker-46] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 14:02:55,177 [Worker-41] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 14:02:55,702 [Worker-38] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 14:02:56,999 [Worker-46] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 14:07:23,228 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 14:07:23,503 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 14:07:23,907 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 14:07:27,434 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 14:07:27,455 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 14:07:28,669 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 14:19:46,805 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 14:19:47,101 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 14:19:47,188 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 14:19:50,789 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 14:19:50,810 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 14:19:50,886 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 15:20:53,334 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 15:20:54,781 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 15:21:49,983 [Worker-35] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 15:21:51,225 [Worker-35] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 15:26:54,345 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 15:26:54,479 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 15:26:54,628 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-04 15:26:58,944 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 15:26:58,946 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-04 15:26:59,023 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-05 09:40:04,598 [Worker-22] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-05 09:40:07,321 [Worker-22] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-05 09:44:12,646 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-05 09:44:15,710 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-05 09:45:26,781 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-05 09:45:26,872 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-05 09:45:28,569 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-05 09:45:28,656 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-05 11:09:46,274 [Worker-55] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-05 11:09:47,897 [Worker-55] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-05 11:09:48,510 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-05 11:09:50,620 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-05 11:29:44,001 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-05 11:29:45,805 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-05 11:29:51,253 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-05 11:29:51,456 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-05 11:29:51,482 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-05 11:29:53,696 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-05 11:29:54,143 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-05 11:29:54,184 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-06 08:47:13,495 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-06 08:47:17,457 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-06 08:47:46,241 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-06 08:47:46,390 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-06 08:47:46,513 [Worker-16] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-06 08:47:48,751 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-06 08:47:49,020 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-06 08:47:49,095 [Worker-16] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 08:31:54,207 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 08:31:59,905 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 08:35:08,208 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 08:35:09,612 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 08:40:45,315 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 08:40:45,337 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 08:40:47,455 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 08:40:47,585 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 08:44:08,177 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 08:44:08,205 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 08:44:08,320 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 08:44:08,320 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 08:44:11,896 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 08:44:12,366 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 08:44:12,371 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 08:44:12,398 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 08:47:04,093 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 08:47:04,107 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 08:47:04,096 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 08:47:04,253 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 08:47:08,286 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 08:47:08,619 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 08:47:08,779 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 08:47:08,818 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 08:48:40,256 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 08:48:40,434 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 08:48:40,715 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 08:48:40,770 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 08:48:45,135 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 08:48:45,489 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 08:48:45,659 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 08:48:45,718 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 08:50:03,421 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 08:50:04,688 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 09:15:44,461 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 09:15:44,613 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 09:15:44,646 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 09:15:48,464 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 09:15:48,465 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 09:15:48,588 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 09:47:04,931 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 09:47:07,266 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 15:00:20,670 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 15:00:20,670 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 15:00:25,142 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 15:00:25,163 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-09 15:00:27,551 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-09 15:00:29,594 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-11 09:09:26,915 [Worker-16] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-11 09:09:29,235 [Worker-16] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-11 09:13:11,459 [Worker-19] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-11 09:13:13,440 [Worker-19] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-11 09:23:58,981 [Worker-28] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-11 09:24:01,137 [Worker-28] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-11 09:37:34,853 [Worker-42] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-11 09:37:36,970 [Worker-42] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-11 09:37:38,285 [Worker-50] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-11 09:37:40,010 [Worker-50] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-11 09:37:41,142 [Worker-48] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-11 09:37:42,808 [Worker-48] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-12 08:34:24,260 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-12 08:34:26,483 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-12 08:35:52,879 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-12 08:35:55,318 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-16 09:39:57,746 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-16 09:39:58,611 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-16 09:40:01,811 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-16 09:40:01,813 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-16 09:41:02,650 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-16 09:41:04,030 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-16 09:42:09,532 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-16 09:42:11,043 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-16 09:45:04,106 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-16 09:45:05,325 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-16 09:45:06,191 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-16 09:45:07,977 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 14:42:56,088 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 14:43:01,191 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 14:43:02,582 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 14:43:02,858 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 14:43:02,933 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 14:43:05,823 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 14:43:06,558 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 14:43:07,279 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 14:44:27,560 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 14:44:28,930 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 14:44:30,215 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 14:44:30,277 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 14:44:30,482 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 14:44:32,281 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 14:44:32,510 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 14:44:32,773 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 14:50:27,701 [Worker-15] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 14:50:29,426 [Worker-15] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 14:54:34,509 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 14:54:35,680 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 15:02:18,816 [Worker-14] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 15:02:18,944 [Worker-25] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 15:02:19,030 [Worker-23] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 15:02:21,665 [Worker-14] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 15:02:21,806 [Worker-25] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 15:02:21,972 [Worker-23] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 15:06:03,515 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 15:06:04,919 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 15:06:19,306 [Worker-14] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 15:06:20,494 [Worker-14] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 16:23:10,093 [Worker-58] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 16:23:10,237 [Worker-76] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 16:23:10,363 [Worker-74] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 16:23:12,208 [Worker-74] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 16:23:12,259 [Worker-58] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 16:23:12,451 [Worker-76] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 16:35:41,273 [Worker-88] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 16:35:41,308 [Worker-97] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 16:35:42,659 [Worker-88] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 16:35:42,681 [Worker-97] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 16:43:57,090 [ModalContext] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 16:43:58,244 [ModalContext] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 16:44:00,003 [Worker-96] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 16:44:00,053 [Worker-94] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 16:44:00,294 [Worker-104] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-02-17 16:44:02,172 [Worker-96] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 16:44:02,299 [Worker-94] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-02-17 16:44:02,453 [Worker-104] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 04:56:56,419 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 04:56:56,416 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 04:57:01,631 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 04:57:01,639 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:00:39,215 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:00:39,249 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:00:39,285 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:00:41,750 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:00:41,753 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:00:41,931 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:04:04,724 [Worker-16] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:04:04,732 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:04:04,849 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:04:04,926 [Worker-17] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:04:08,663 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:04:08,834 [Worker-16] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:04:08,883 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:04:08,897 [Worker-17] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:09:28,862 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:09:30,226 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:39:06,939 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:39:07,039 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:39:07,078 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:39:07,082 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:39:10,544 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:39:10,733 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:39:10,734 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:39:10,780 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:39:11,530 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:39:13,122 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:40:13,773 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:40:15,180 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:51:58,883 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:51:58,883 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:51:58,883 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:51:58,883 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:52:10,059 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:52:10,060 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:52:10,063 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:52:10,069 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 05:52:10,940 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 05:52:13,110 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 06:03:41,657 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 06:03:42,995 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 06:04:12,466 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 06:04:13,773 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 06:04:32,551 [Worker-15] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 06:04:33,891 [Worker-15] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 06:05:48,967 [Worker-16] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 06:05:50,096 [Worker-16] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 06:05:52,944 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 06:05:54,075 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 06:06:57,226 [Worker-17] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 06:06:58,856 [Worker-17] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 06:15:32,737 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 06:15:36,329 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 06:15:37,342 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 06:15:38,427 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 06:15:38,914 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 06:15:40,310 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 06:19:17,171 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 06:19:17,203 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 06:19:17,220 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 06:19:17,244 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 06:19:19,613 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 06:19:19,662 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 06:19:19,770 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 06:19:19,806 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 06:19:21,352 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 06:19:21,562 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 06:19:21,672 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 06:19:21,702 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 06:19:24,449 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 06:19:24,583 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 06:19:24,750 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 06:19:24,789 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 08:37:45,320 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 08:37:45,351 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 08:37:45,336 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 08:37:45,419 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 08:37:51,604 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 08:37:51,605 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 08:37:51,607 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 08:37:51,610 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 08:37:53,535 [Worker-16] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 08:37:53,565 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 08:37:53,672 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 08:37:53,772 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 08:37:57,968 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 08:37:58,844 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 08:37:59,146 [Worker-16] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 08:37:59,200 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 08:37:59,889 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 08:38:00,604 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 08:38:02,072 [Worker-11] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 08:38:02,557 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-03 09:53:45,025 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-03 09:53:46,751 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-04 03:29:09,023 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-04 03:29:09,218 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-04 03:29:09,210 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-04 03:29:09,256 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-04 03:29:17,226 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-04 03:29:17,274 [Worker-6] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-04 03:29:17,278 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-04 03:29:17,292 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-04 03:29:19,083 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-04 03:29:19,324 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-04 03:29:19,380 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-04 03:29:19,546 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-04 03:29:21,869 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-04 03:29:23,454 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-04 03:29:23,747 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-04 03:29:23,803 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-04 03:29:23,867 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-04 03:29:24,999 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-04 03:29:26,778 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-04 03:29:27,620 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 01:38:49,038 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 01:38:49,047 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 01:38:49,042 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 01:38:49,557 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 01:38:57,253 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 01:38:57,254 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 01:38:57,255 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 01:38:57,268 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 01:38:59,411 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 01:38:59,610 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 01:38:59,768 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 01:38:59,786 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 01:39:02,014 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 01:39:02,959 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 01:39:03,101 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 01:39:03,239 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 01:39:03,962 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 01:39:05,782 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 01:39:06,057 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 01:39:07,516 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 01:39:08,598 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 01:39:08,793 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 04:33:49,629 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 04:33:51,731 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 04:34:19,584 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 04:34:21,097 [Worker-8] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 04:34:52,117 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 04:34:53,412 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 04:35:25,311 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 04:35:27,008 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 04:35:48,839 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 04:35:50,403 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 05:13:49,669 [Worker-27] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 05:13:50,046 [Worker-31] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 05:13:50,176 [Worker-32] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 05:13:51,917 [Worker-27] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 05:13:52,075 [Worker-31] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 05:13:52,184 [Worker-32] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 05:14:07,070 [Worker-34] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 05:14:08,677 [Worker-34] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 05:14:18,827 [Worker-31] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 05:14:20,247 [Worker-31] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-05 05:14:30,021 [Worker-35] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-05 05:14:31,514 [Worker-35] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-06 07:27:42,027 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-06 07:27:43,010 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-06 07:27:45,417 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-06 07:27:45,479 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-06 07:27:57,046 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-06 07:27:58,949 [Worker-2] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-06 07:28:08,989 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-06 07:28:10,632 [Worker-5] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-06 07:28:21,816 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-06 07:28:23,268 [Worker-4] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-06 09:17:44,003 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-06 09:17:45,695 [main] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-06 09:21:09,528 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-06 09:21:10,386 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-06 09:21:11,713 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-06 09:21:12,067 [Worker-10] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-06 09:21:21,885 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-06 09:21:23,367 [Worker-12] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-06 09:21:31,889 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-06 09:21:33,195 [Worker-13] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-06 09:21:44,248 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-06 09:21:45,572 [Worker-3] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-09 05:01:47,415 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-09 05:01:47,415 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-09 05:01:47,415 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-09 05:01:47,474 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-09 05:01:51,817 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-09 05:01:51,848 [Worker-0] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-09 05:01:51,856 [Worker-9] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-09 05:01:51,894 [Worker-7] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.
+2015-03-09 05:01:52,752 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Starting to watch directory '/home/leandro/ABCD-3.0-Work/repository/usr'; period 5s.
+2015-03-09 05:01:54,115 [Worker-1] INFO  o.e.v.r.i.w.WatchedStorageRepository - Stopping watched directory '/home/leandro/ABCD-3.0-Work/repository/usr'.

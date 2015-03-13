@@ -1,0 +1,3 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/cu.uci.abcd.dataprovider.jisis.impl/src/META-INF/spring/osgi-bean-definition.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/cu.uci.abcd.management.db.ui/src/META-INF/spring/osgi-module-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+eclipse.preferences.version=1

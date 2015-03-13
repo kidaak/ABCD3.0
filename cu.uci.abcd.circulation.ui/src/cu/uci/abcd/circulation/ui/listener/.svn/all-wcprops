@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/abcd/!svn/ver/1171/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/listener
+END
+EventConsultTransactions.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/abcd/!svn/ver/1171/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/listener/EventConsultTransactions.java
+END
+EventConsultUserLoan.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/abcd/!svn/ver/1171/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/listener/EventConsultUserLoan.java
+END
+EventConsultSanction.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/abcd/!svn/ver/1171/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/listener/EventConsultSanction.java
+END
+EventRegisterSanctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/abcd/!svn/ver/1171/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/listener/EventRegisterSanctions.java
+END
+EventConsultObjectLoan.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/abcd/!svn/ver/1171/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/listener/EventConsultObjectLoan.java
+END
+EventConsultReservation.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/abcd/!svn/ver/1171/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/listener/EventConsultReservation.java
+END
+EventEditSanctionPerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/abcd/!svn/ver/1171/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/listener/EventEditSanctionPerson.java
+END

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans:beans xmlns="http://www.springframework.org/schema/osgi"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:beans="http://www.springframework.org/schema/beans"
+	xsi:schemaLocation="http://www.springframework.org/schema/osgi
+		http://www.springframework.org/schema/osgi/spring-osgi.xsd
+		http://www.springframework.org/schema/beans
+		http://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	<service ref="actualizarRegistroDeAdquisicion" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.ActualizarRegistroDeAdquisicion"/>
+		</service-properties>
+	</service>
+	
+	<service ref="aprobarRechazarOrdenDeCompra" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.AprobarRechazarOrdenDeCompra"/>
+		</service-properties>
+	</service>
+	
+	<service ref="aprobarRechazarSugerencias" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.AprobarRechazarSugerencias"/>
+		</service-properties>
+	</service>
+	
+	<service ref="aprobarRechazarSugerenciasSeleccionada" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.AprobarRechazarSugerenciasSeleccionada"/>
+		</service-properties>
+	</service>
+	
+	<service ref="asociarOrdenDeCompra" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.AsociarOrdenDeCompra"/>
+		</service-properties>
+	</service>
+	
+	<service ref="asociarPedido" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.AsociarPedido"/>
+		</service-properties>
+	</service>
+	
+	<service ref="consultarOrdenesDeCompra" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.ConsultarOrdenesDeCompra"/>
+		</service-properties>
+	</service>
+	
+	<service ref="consultarPedidos" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.ConsultarPedidos"/>
+		</service-properties>
+	</service>
+	
+	<service ref="consultarRegistroDeAdquisiciones" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.ConsultarRegistroDeAdquisiciones"/>
+		</service-properties>
+	</service>
+	
+	<service ref="consultarSugerncias" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.ConsultarSugerncias"/>
+		</service-properties>
+	</service>
+	
+	<service ref="editarDatosDeLaAdquisicionDelEjemplar" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.EditarDatosDeLaAdquisicionDelEjemplar"/>
+		</service-properties>
+	</service>
+	
+	<service ref="editarOrdenDeCompra" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.EditarOrdenDeCompra"/>
+		</service-properties>
+	</service>
+	
+	<service ref="modificarPedido" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.ModificarPedido"/>
+		</service-properties>
+	</service>
+	
+	<service ref="registrarAdquisiciónDelEjemplarPorCanje" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.RegistrarAdquisiciónDelEjemplarPorCanje"/>
+		</service-properties>
+	</service>
+	
+	<service ref="registrarOrdenDeCompra" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.RegistrarOrdenDeCompra"/>
+		</service-properties>
+	</service>
+	
+	<service ref="registrarPedidoConSugerenciasAsociadas" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.RegistrarPedidoConSugerenciasAsociadas"/>
+		</service-properties>
+	</service>
+	
+	<service ref="registrarPedidoSinSugerenciasAsociadas" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.RegistrarPedidoSinSugerenciasAsociadas"/>
+		</service-properties>
+	</service>
+	
+	<service ref="registrarRegistroDeAdquisicion" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.RegistrarRegistroDeAdquisicion"/>
+		</service-properties>
+	</service>
+	
+	<service ref="registroDeAdquisicionDelEjemplar" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.RegistroDeAdquisicionDelEjemplar"/>
+		</service-properties>
+	</service>
+	
+	<service ref="verDatosDelPedido" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.VerDatosDelPedido"/>
+		</service-properties>
+	</service>
+	
+	<service ref="verDatosDelPedidoSinSugerenciasAsociada" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.VerDatosDelPedidoSinSugerenciasAsociada"/>
+		</service-properties>
+	</service>
+	
+	<service ref="verDatosOrdenCompra" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.VerDatosOrdenCompra"/>
+		</service-properties>
+	</service>
+	
+	<service ref="verRegistroDeAdquisicion" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.VerRegistroDeAdquisicion"/>
+		</service-properties>
+	</service>
+	
+	<service ref="verRegistroDeAdquisiciónDelEjemplar" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+				<beans:entry key="type" value="abcd"/>
+				<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.VerRegistroDeAdquisiciónDelEjemplar"/>
+		</service-properties>
+	</service>
+			
+	<reference id="registerAcquisitionService" interface="cu.uci.abcd.adquisicion.IRegistrationManageAcquisitionServices">
+		<listener bind-method="bind" ref="registerService" />
+	</reference>
+
+	<service ref="registerContributor" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+			<beans:entry key="type" value="abcd" />
+
+			<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.Test" />
+			<beans:entry key="viewController" value-ref="registerService"/>
+
+		</service-properties>
+	</service>
+	
+	 <service ref="consultContributor" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+			<beans:entry key="type" value="abcd" />
+
+			<beans:entry key="class" value="cu.uci.abcd.adquisicion.iu.ConsultarRegistroDeAdquisiciones" />
+			<beans:entry key="viewController" value-ref="consultService"/>
+
+		</service-properties> 
+	</service>
+	</beans:beans> 

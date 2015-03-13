@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/abcd/!svn/ver/1502/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu
+END
+AprobarRechazarSugerencias.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/abcd/!svn/ver/1450/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/AprobarRechazarSugerencias.java
+END
+RegisterLogAcquisition.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/abcd/!svn/ver/1282/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/RegisterLogAcquisition.java
+END
+VerDatosDelPedido.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/abcd/!svn/ver/1262/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/VerDatosDelPedido.java
+END
+RegistrarPedidoSinSugerenciasAsociadas.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/abcd/!svn/ver/1282/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/RegistrarPedidoSinSugerenciasAsociadas.java
+END
+RegistroDeAdquisicionDelEjemplar.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/abcd/!svn/ver/1450/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/RegistroDeAdquisicionDelEjemplar.java
+END
+ConsultarOrdenesDeCompra.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/abcd/!svn/ver/1262/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/ConsultarOrdenesDeCompra.java
+END
+RegistrarOrdenDeCompra.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/abcd/!svn/ver/1311/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/RegistrarOrdenDeCompra.java
+END
+AsociarPedido.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/abcd/!svn/ver/1262/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/AsociarPedido.java
+END
+AprobarRechazarOrdenDeCompra.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/abcd/!svn/ver/1450/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/AprobarRechazarOrdenDeCompra.java
+END
+EditarOrdenDeCompra.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/abcd/!svn/ver/1262/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/EditarOrdenDeCompra.java
+END
+VerRegistroDeAdquisicion.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/abcd/!svn/ver/1547/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/VerRegistroDeAdquisicion.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/abcd/!svn/ver/1502/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/Test.java
+END
+ActualizarRegistroDeAdquisicion.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/abcd/!svn/ver/1282/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/ActualizarRegistroDeAdquisicion.java
+END
+VerDatosOrdenCompra.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/abcd/!svn/ver/1262/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/VerDatosOrdenCompra.java
+END
+ModificarPedido.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/abcd/!svn/ver/1262/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/ModificarPedido.java
+END
+ConsultarPedidos.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/abcd/!svn/ver/1262/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/ConsultarPedidos.java
+END
+ConsultarRegistroDeAdquisiciones.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/abcd/!svn/ver/1450/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/ConsultarRegistroDeAdquisiciones.java
+END
+RegistrarRegistroDeAdquisicion.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/abcd/!svn/ver/1262/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/RegistrarRegistroDeAdquisicion.java
+END
+AsociarOrdenDeCompra.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/abcd/!svn/ver/1262/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/AsociarOrdenDeCompra.java
+END
+RegistrarAdquisiciónDelEjemplarPorCanje.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/abcd/!svn/ver/1450/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/RegistrarAdquisici%C3%B3nDelEjemplarPorCanje.java
+END
+VerRegistroDeAdquisiciónDelEjemplar.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/abcd/!svn/ver/1262/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/VerRegistroDeAdquisici%C3%B3nDelEjemplar.java
+END
+EditarDatosDeLaAdquisicionDelEjemplar.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/abcd/!svn/ver/1262/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/EditarDatosDeLaAdquisicionDelEjemplar.java
+END
+RegistrarPedidoConSugerenciasAsociadas.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/abcd/!svn/ver/1282/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/RegistrarPedidoConSugerenciasAsociadas.java
+END
+VerDatosDelPedidoSinSugerenciasAsociada.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/abcd/!svn/ver/1262/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/VerDatosDelPedidoSinSugerenciasAsociada.java
+END
+AprobarRechazarSugerenciasSeleccionada.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/abcd/!svn/ver/1450/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/AprobarRechazarSugerenciasSeleccionada.java
+END
+ConsultarSugerncias.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/abcd/!svn/ver/1282/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion.iu/src/cu/uci/abcd/adquisicion/iu/ConsultarSugerncias.java
+END

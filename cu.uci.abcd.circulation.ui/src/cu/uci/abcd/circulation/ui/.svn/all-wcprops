@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/abcd/!svn/ver/1413/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui
+END
+ConsultUserLoan.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/abcd/!svn/ver/1571/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/ConsultUserLoan.java
+END
+RegisterLoanExternal.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/abcd/!svn/ver/1290/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/RegisterLoanExternal.java
+END
+.directory
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/abcd/!svn/ver/1335/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/.directory
+END
+ShowHistoricalObjectLoan.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/abcd/!svn/ver/1505/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/ShowHistoricalObjectLoan.java
+END
+RegisterLoanDA.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/abcd/!svn/ver/1290/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/RegisterLoanDA.java
+END
+RegisterSanctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/abcd/!svn/ver/1571/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/RegisterSanctions.java
+END
+RegisterLoanInitial.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/abcd/!svn/ver/1571/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/RegisterLoanInitial.java
+END
+ConsultReservation.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/abcd/!svn/ver/1571/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/ConsultReservation.java
+END
+ViewObjectLoan.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/abcd/!svn/ver/1290/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/ViewObjectLoan.java
+END
+ShowHistoricalUserLoan.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/abcd/!svn/ver/1290/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/ShowHistoricalUserLoan.java
+END
+AssociateObjectLoan.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/abcd/!svn/ver/1360/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/AssociateObjectLoan.java
+END
+ConsultTransactions.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/abcd/!svn/ver/1571/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/ConsultTransactions.java
+END
+RegisterReturn.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/abcd/!svn/ver/1571/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/RegisterReturn.java
+END
+RegisterRenew.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/abcd/!svn/ver/1571/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/RegisterRenew.java
+END
+ConsultSanction.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/abcd/!svn/ver/1571/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/ConsultSanction.java
+END
+RegisterLoanWithoutReservations.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/abcd/!svn/ver/1290/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/RegisterLoanWithoutReservations.java
+END
+ConsultObjectLoan.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/abcd/!svn/ver/1571/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/ConsultObjectLoan.java
+END
+RegisterRenewDA.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/abcd/!svn/ver/1290/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/RegisterRenewDA.java
+END
+RegisterUserLoan.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/abcd/!svn/ver/1669/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/RegisterUserLoan.java
+END
+ShowCurrentStateUSerLoan.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/abcd/!svn/ver/1290/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/ShowCurrentStateUSerLoan.java
+END

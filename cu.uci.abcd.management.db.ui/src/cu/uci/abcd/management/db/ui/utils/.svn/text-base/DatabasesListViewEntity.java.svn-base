@@ -1,0 +1,38 @@
+package cu.uci.abcd.management.db.ui.utils;
+
+import java.util.List;
+
+import cu.uci.abos.widgets.grid.IGridViewEntity;
+import cu.uci.abos.widgets.grid.TreeTableColumn;
+
+public class DatabasesListViewEntity implements IGridViewEntity {
+
+    private String name;
+
+    public DatabasesListViewEntity(String name) {
+	super();
+	this.name = name;
+    }
+
+    @TreeTableColumn(percentWidth = 90, index = 0)
+    public String getName() {
+	return name;
+    }
+
+    public void setName(String name) {
+	this.name = name;
+    }
+
+    @Override
+    public void addChild(IGridViewEntity child) {
+	// TODO CHECK IF THIS METHOD IS NECESSARY
+
+    }
+
+    @Override
+    public List<IGridViewEntity> getChildren() {
+	// TODO CHECK IF THIS METHOD IS NECESSARY
+	return null;
+    }
+
+}

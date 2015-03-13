@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/abcd/!svn/ver/1600/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.nomenclators.ui/src/cu/uci/cu/administration/nomenclators/model
+END
+NomenclatorGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/abcd/!svn/ver/1600/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.nomenclators.ui/src/cu/uci/cu/administration/nomenclators/model/NomenclatorGrid.java
+END
+NomenclatorUpdateEditableArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/abcd/!svn/ver/1638/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.nomenclators.ui/src/cu/uci/cu/administration/nomenclators/model/NomenclatorUpdateEditableArea.java
+END
+NomenclatorWatchEditableArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/abcd/!svn/ver/1645/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.nomenclators.ui/src/cu/uci/cu/administration/nomenclators/model/NomenclatorWatchEditableArea.java
+END
+NomenclatorAddEditableArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/abcd/!svn/ver/1638/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.nomenclators.ui/src/cu/uci/cu/administration/nomenclators/model/NomenclatorAddEditableArea.java
+END

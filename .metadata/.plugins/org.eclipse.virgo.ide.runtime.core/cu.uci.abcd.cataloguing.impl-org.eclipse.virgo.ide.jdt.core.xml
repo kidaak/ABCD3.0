@@ -1,0 +1,24 @@
+<classpath>
+<classpathentry kind="lib" path="/home/leandro/ABCD-3.0-Work/repository/usr/cu.uci.abcd.dataprovider.jisis-1.1.0.jar">
+	<attributes>
+		<attribute name="org.eclipse.virgo.ide.jdt.core.CLASSPATH_ENTRY" value="true"/>
+	</attributes>
+	<accessrules>
+		<accessrule kind="accessible" pattern="cu/uci/abcd/dataprovider/jisis/*"/>
+		<accessrule kind="accessible" pattern="cu/uci/abcd/dataprovider/jisis/exception/*"/>
+		<accessrule kind="accessible" pattern="cu/uci/abcd/dataprovider/jisis/search/option/*"/>
+		<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
+	</accessrules>
+</classpathentry>
+<classpathentry kind="lib" path="/home/leandro/ABCD-3.0-Work/repository/usr/jisis-core.jar">
+	<attributes>
+		<attribute name="org.eclipse.virgo.ide.jdt.core.CLASSPATH_ENTRY" value="true"/>
+	</attributes>
+	<accessrules>
+		<accessrule kind="accessible" pattern="org/unesco/jisis/corelib/common/*"/>
+		<accessrule kind="accessible" pattern="org/unesco/jisis/corelib/exceptions/*"/>
+		<accessrule kind="accessible" pattern="org/unesco/jisis/corelib/record/*"/>
+		<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
+	</accessrules>
+</classpathentry>
+</classpath>

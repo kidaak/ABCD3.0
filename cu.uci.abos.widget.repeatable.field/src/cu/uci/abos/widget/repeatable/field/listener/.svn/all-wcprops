@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/abcd/!svn/ver/1716/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.widget.repeatable.field/src/cu/uci/abos/widget/repeatable/field/listener
+END
+EventDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/abcd/!svn/ver/1602/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.widget.repeatable.field/src/cu/uci/abos/widget/repeatable/field/listener/EventDelete.java
+END
+EventSimpleAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/abcd/!svn/ver/1731/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.widget.repeatable.field/src/cu/uci/abos/widget/repeatable/field/listener/EventSimpleAdd.java
+END
+EventTabFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/abcd/!svn/ver/1602/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.widget.repeatable.field/src/cu/uci/abos/widget/repeatable/field/listener/EventTabFolder.java
+END
+EventCancel.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/abcd/!svn/ver/1602/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.widget.repeatable.field/src/cu/uci/abos/widget/repeatable/field/listener/EventCancel.java
+END
+EventDeteleField.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/abcd/!svn/ver/1731/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.widget.repeatable.field/src/cu/uci/abos/widget/repeatable/field/listener/EventDeteleField.java
+END
+EventAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/abcd/!svn/ver/1704/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.widget.repeatable.field/src/cu/uci/abos/widget/repeatable/field/listener/EventAdd.java
+END
+EventAddField.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/abcd/!svn/ver/1731/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.widget.repeatable.field/src/cu/uci/abos/widget/repeatable/field/listener/EventAddField.java
+END
+EventSimpleDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/abcd/!svn/ver/1731/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.widget.repeatable.field/src/cu/uci/abos/widget/repeatable/field/listener/EventSimpleDelete.java
+END

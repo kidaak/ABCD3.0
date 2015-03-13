@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="cu.uci.abos.widget.compoundLabel.ControlType"/>
+<fullyQualifiedTypeName name="cu.uci.abos.ui.api.reponsive.ScaleProvider"/>
+<fullyQualifiedTypeName name="cu.uci.abos.ui.api.reponsive.ScaleData"/>
+<fullyQualifiedTypeName name="cu.uci.abos.ui.api.reponsive.Scale"/>
+<fullyQualifiedTypeName name="cu.uci.abos.l10n.util.MessageUtil"/>
+<fullyQualifiedTypeName name="cu.uci.abos.l10n.management.db.AbosMessages"/>
+<fullyQualifiedTypeName name="org.eclipse.jface.viewers.TableViewer"/>
+<fullyQualifiedTypeName name="org.eclipse.jface.viewers.TableLayout"/>
+<fullyQualifiedTypeName name="org.eclipse.jface.viewers.IStructuredContentProvider"/>
+<fullyQualifiedTypeName name="org.eclipse.jface.viewers.ITableLabelProvider"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.widgets.Composite"/>
+<fullyQualifiedTypeName name="org.eclipse.jface.layout.TableColumnLayout"/>
+<fullyQualifiedTypeName name="org.eclipse.jface.viewers.ColumnWeightData"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.widgets.TableColumn"/>
+<fullyQualifiedTypeName name="org.eclipse.jface.viewers.TableViewerColumn"/>
+<fullyQualifiedTypeName name="cu.uci.abos.widgets.grid.CRUDTreeTable"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.SWT"/>
+<fullyQualifiedTypeName name="cu.uci.abcd.management.db.ui.utils.DatabasesListViewEntity"/>
+<fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+<fullyQualifiedTypeName name="cu.uci.abos.widgets.exceptions.ComparissonException"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Field"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="clases.Persona"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="cu.uci.abos.widgets.grid.DynamicGrid"/>
+<fullyQualifiedTypeName name="java.lang.Comparable"/>
+<fullyQualifiedTypeName name="cu.uci.abos.widgets.grid.DynamicGridEntity"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="cu.uci.abos.widgets.grid.DynamicGridField"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

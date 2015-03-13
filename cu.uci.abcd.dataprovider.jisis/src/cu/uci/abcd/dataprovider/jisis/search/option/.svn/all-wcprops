@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/abcd/!svn/ver/1020/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dataprovider.jisis/src/cu/uci/abcd/dataprovider/jisis/search/option
+END
+Option.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/abcd/!svn/ver/1020/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dataprovider.jisis/src/cu/uci/abcd/dataprovider/jisis/search/option/Option.java
+END
+OptionNOT.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/abcd/!svn/ver/1020/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dataprovider.jisis/src/cu/uci/abcd/dataprovider/jisis/search/option/OptionNOT.java
+END
+OptionOR.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/abcd/!svn/ver/1020/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dataprovider.jisis/src/cu/uci/abcd/dataprovider/jisis/search/option/OptionOR.java
+END
+OptionAND.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/abcd/!svn/ver/1020/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dataprovider.jisis/src/cu/uci/abcd/dataprovider/jisis/search/option/OptionAND.java
+END

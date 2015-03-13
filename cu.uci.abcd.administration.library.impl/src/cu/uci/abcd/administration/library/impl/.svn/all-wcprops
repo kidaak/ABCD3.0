@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/abcd/!svn/ver/1722/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.impl/src/cu/uci/abcd/administration/library/impl
+END
+EmailAddressServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/abcd/!svn/ver/1722/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.impl/src/cu/uci/abcd/administration/library/impl/EmailAddressServiceImpl.java
+END
+FormationCourseServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/abcd/!svn/ver/1538/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.impl/src/cu/uci/abcd/administration/library/impl/FormationCourseServiceImpl.java
+END
+PenaltyEquationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/abcd/!svn/ver/1567/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.impl/src/cu/uci/abcd/administration/library/impl/PenaltyEquationServiceImpl.java
+END
+LibraryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/abcd/!svn/ver/1501/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.impl/src/cu/uci/abcd/administration/library/impl/LibraryServiceImpl.java
+END
+CirculationRuleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/abcd/!svn/ver/1517/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.impl/src/cu/uci/abcd/administration/library/impl/CirculationRuleServiceImpl.java
+END
+HoraryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/abcd/!svn/ver/1517/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.impl/src/cu/uci/abcd/administration/library/impl/HoraryServiceImpl.java
+END
+PersonServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/abcd/!svn/ver/1501/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.impl/src/cu/uci/abcd/administration/library/impl/PersonServiceImpl.java
+END
+CoinServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/abcd/!svn/ver/1517/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.impl/src/cu/uci/abcd/administration/library/impl/CoinServiceImpl.java
+END
+PostalAddressServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/abcd/!svn/ver/1722/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.impl/src/cu/uci/abcd/administration/library/impl/PostalAddressServiceImpl.java
+END
+CalendarServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/abcd/!svn/ver/1501/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.impl/src/cu/uci/abcd/administration/library/impl/CalendarServiceImpl.java
+END
+WorkerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/abcd/!svn/ver/1538/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.impl/src/cu/uci/abcd/administration/library/impl/WorkerServiceImpl.java
+END
+ProviderServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/abcd/!svn/ver/1722/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.impl/src/cu/uci/abcd/administration/library/impl/ProviderServiceImpl.java
+END
+WorkerTypeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/abcd/!svn/ver/1501/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.administration.library.impl/src/cu/uci/abcd/administration/library/impl/WorkerTypeServiceImpl.java
+END

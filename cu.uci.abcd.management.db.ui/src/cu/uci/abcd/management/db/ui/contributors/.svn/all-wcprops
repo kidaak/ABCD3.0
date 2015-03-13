@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/abcd/!svn/ver/1697/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors
+END
+ManageDatabases.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/abcd/!svn/ver/1592/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors/ManageDatabases.java
+END
+CSearchEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/abcd/!svn/ver/1155/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors/CSearchEntity.java
+END
+FDTViewEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/abcd/!svn/ver/1696/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors/FDTViewEntity.java
+END
+DEWViewEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/abcd/!svn/ver/1592/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors/DEWViewEntity.java
+END
+FDTStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/abcd/!svn/ver/1697/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors/FDTStep.java
+END
+FDTUpdateArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/abcd/!svn/ver/1696/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors/FDTUpdateArea.java
+END
+ASCEditionArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/abcd/!svn/ver/1676/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors/ASCEditionArea.java
+END
+DEWStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/abcd/!svn/ver/1592/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors/DEWStep.java
+END
+IsisAdminContributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/abcd/!svn/ver/1678/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors/IsisAdminContributor.java
+END
+FDTAddArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/abcd/!svn/ver/1696/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors/FDTAddArea.java
+END
+ASVisualizationContributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/abcd/!svn/ver/1592/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors/ASVisualizationContributor.java
+END
+Administrar_Hoja_Trabajo.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/abcd/!svn/ver/1592/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors/Administrar_Hoja_Trabajo.java
+END
+FSTViewEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/abcd/!svn/ver/1592/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors/FSTViewEntity.java
+END
+ASConfigurationContributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/abcd/!svn/ver/1592/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors/ASConfigurationContributor.java
+END
+FSTStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/abcd/!svn/ver/1592/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors/FSTStep.java
+END
+SFSearchEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/abcd/!svn/ver/1155/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors/SFSearchEntity.java
+END
+FDType.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/abcd/!svn/ver/1696/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors/FDType.java
+END
+Administrar_Lista_Seleccion.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/abcd/!svn/ver/1531/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.management.db.ui/src/cu/uci/abcd/management/db/ui/contributors/Administrar_Lista_Seleccion.java
+END

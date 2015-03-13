@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/abcd/!svn/ver/1505/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/model
+END
+ViewAreaPenalty.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/abcd/!svn/ver/1425/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/model/ViewAreaPenalty.java
+END
+EditorAreaReservationObjectLoan.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/abcd/!svn/ver/1290/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/model/EditorAreaReservationObjectLoan.java
+END
+AddAreaRegisterSanctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/abcd/!svn/ver/1505/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/model/AddAreaRegisterSanctions.java
+END
+GridReservationObjectLoan.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/abcd/!svn/ver/1290/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/model/GridReservationObjectLoan.java
+END
+ObjectLoanView.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/abcd/!svn/ver/1198/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/model/ObjectLoanView.java
+END
+ViewAreaUserLoan.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/abcd/!svn/ver/1669/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/model/ViewAreaUserLoan.java
+END
+EditorAreaAssociateObjectLoan.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/abcd/!svn/ver/1290/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/model/EditorAreaAssociateObjectLoan.java
+END
+PersonGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/abcd/!svn/ver/1493/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/model/PersonGrid.java
+END
+RegisterSanctionView.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/abcd/!svn/ver/1198/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/model/RegisterSanctionView.java
+END
+EditorAreaSanctionObjectLoan.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/abcd/!svn/ver/1290/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/model/EditorAreaSanctionObjectLoan.java
+END
+GridTransactionsObjectLoan.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/abcd/!svn/ver/1198/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/model/GridTransactionsObjectLoan.java
+END
+GridSanctionObjectLoan.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/abcd/!svn/ver/1290/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/model/GridSanctionObjectLoan.java
+END
+EntityLoanUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/abcd/!svn/ver/1523/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/model/EntityLoanUser.java
+END
+EditorAreaConsultSanction.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/abcd/!svn/ver/1473/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/model/EditorAreaConsultSanction.java
+END
+EntityLoanUserType.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/abcd/!svn/ver/1473/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/model/EntityLoanUserType.java
+END
+EditorAreaUserLoan.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/abcd/!svn/ver/1669/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/model/EditorAreaUserLoan.java
+END
+GridConsultSanction.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/abcd/!svn/ver/1505/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation.ui/src/cu/uci/abcd/circulation/ui/model/GridConsultSanction.java
+END

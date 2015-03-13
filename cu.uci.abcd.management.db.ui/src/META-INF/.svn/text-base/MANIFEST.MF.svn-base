@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Export-Package: controller,
+ cu.uci.abcd.management.db.ui.contributors,
+ resources
+Import-Bundle: org.eclipse.rap.rwt;version="3.0.0.20141110-1349",
+ jisis-core
+Bundle-Version: 1.0.0
+Tool: Bundlor 1.1.2.RELEASE
+Bundle-Name: Iu
+Bundle-ManifestVersion: 2
+Import-Package: cu.uci.abcd.management.db;version="[1.0.0,1.0.0]",
+ cu.uci.abcd.management.db.impl;version="[1.0.0,2.0.0]",
+ cu.uci.abos.core.ui;version="1.0.0",
+ cu.uci.abos.l10n;version="1.0.0",
+ cu.uci.abos.l10n.management.db;version="1.0.0",
+ cu.uci.abos.l10n.platform;version="1.0.0",
+ cu.uci.abos.l10n.util;version="1.0.0",
+ cu.uci.abos.platform.util;version="1.0.0",
+ cu.uci.abos.ui.api;version="1.0.0",
+ cu.uci.abos.ui.api.reponsive;version="1.0.0",
+ cu.uci.abos.util.api;version="1.0.0",
+ cu.uci.abos.validation.ui;version="1.0.0",
+ cu.uci.abos.widgets.grid;version="1.2.5",
+ cu.uci.abos.widgets.ncombo;version="[1.0.0,1.0.0]",
+ cu.uci.abos.widgets.wizard;version="[1.0.0,1.0.0]",
+ org.eclipse.nebula.widgets.grid,
+ org.eclipse.nebula.widgets.grid.internal,
+ org.eclipse.nebula.widgets.grid.internal.gridcolumngroupkit,
+ org.eclipse.nebula.widgets.grid.internal.gridcolumnkit,
+ org.eclipse.nebula.widgets.grid.internal.griditemkit,
+ org.eclipse.nebula.widgets.grid.internal.gridkit
+Bundle-SymbolicName: cu.uci.abcd.management.db.ui
+

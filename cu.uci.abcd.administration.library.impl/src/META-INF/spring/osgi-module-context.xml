@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans:beans xmlns="http://www.springframework.org/schema/osgi"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:beans="http://www.springframework.org/schema/beans"
+	xsi:schemaLocation="http://www.springframework.org/schema/osgi  
+        http://www.springframework.org/schema/osgi/spring-osgi.xsd
+        http://www.springframework.org/schema/beans   
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<reference id="libraryDAO" interface="cu.uci.abcd.dao.management.library.LibraryDAO">
+		<listener bind-method="bind" ref="libraryService" />
+	</reference>
+	
+	<reference id="formationCourseDAO" interface="cu.uci.abcd.dao.management.library.FormationCourseDAO">
+		<listener bind-method="bind" ref="formationCourseService" />
+	</reference>
+	
+    <reference id="personDAO" interface="cu.uci.abcd.dao.common.PersonDAO">
+		<listener bind-method="bind" ref="personService" />
+	</reference>
+	
+	<reference id="providerDAO" interface="cu.uci.abcd.dao.management.library.ProviderDAO">
+		<listener bind-method="bind" ref="providerService" />
+	</reference>
+	
+	<reference id="coinDAO" interface="cu.uci.abcd.dao.management.library.CoinDAO">
+		<listener bind-method="bind" ref="coinService" />
+	</reference>
+	
+	<reference id="workerTypeDAO" interface="cu.uci.abcd.dao.common.WorkerTypeDAO">
+		<listener bind-method="bind" ref="workerTypeService" />
+	</reference>
+	
+	<reference id="workerDAO" interface="cu.uci.abcd.dao.management.library.WorkerDAO">
+		<listener bind-method="bind" ref="workerService" />
+	</reference>
+	
+	<reference id="penaltyEquationDAO" interface="cu.uci.abcd.dao.management.library.PenaltyEquationDAO">
+		<listener bind-method="bind" ref="penaltyEquationService" />
+	</reference>
+	
+	 <reference id="postalAddressDAO" interface="cu.uci.abcd.dao.common.PostalAddressDAO">
+		<listener bind-method="bind" ref="postalAddressService" />
+	</reference>
+	
+	<reference id="emailAddressDAO" interface="cu.uci.abcd.dao.common.EmailAddressDAO">
+		<listener bind-method="bind" ref="emailAddressService" />
+	</reference>
+	
+	
+	
+	<service ref="libraryService" interface="cu.uci.abcd.administration.library.ILibraryService" />
+	<service ref="formationCourseService" interface="cu.uci.abcd.administration.library.IFormationCourseService" />
+	<service ref="personService" interface="cu.uci.abcd.administration.library.IPersonService" />
+	<service ref="providerService" interface="cu.uci.abcd.administration.library.IProviderService" />
+	<service ref="coinService" interface="cu.uci.abcd.administration.library.ICoinService" />
+	<service ref="workerTypeService" interface="cu.uci.abcd.administration.library.IWorkerTypeService" />
+	<service ref="workerService" interface="cu.uci.abcd.administration.library.IWorkerService" />
+	<service ref="penaltyEquationService" interface="cu.uci.abcd.administration.library.IPenaltyEquationService" />
+	<service ref="postalAddressService" interface="cu.uci.abcd.administration.library.IPostalAddressService" />
+	<service ref="emailAddressService" interface="cu.uci.abcd.administration.library.IEmailAddressService" />
+	
+	
+</beans:beans>

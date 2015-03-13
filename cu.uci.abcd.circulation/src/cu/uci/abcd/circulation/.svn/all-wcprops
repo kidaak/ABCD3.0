@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/abcd/!svn/ver/1552/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation/src/cu/uci/abcd/circulation
+END
+ITransactionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/abcd/!svn/ver/1552/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation/src/cu/uci/abcd/circulation/ITransactionService.java
+END
+IPersonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/abcd/!svn/ver/1511/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation/src/cu/uci/abcd/circulation/IPersonService.java
+END
+ILoanUserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/abcd/!svn/ver/1552/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation/src/cu/uci/abcd/circulation/ILoanUserService.java
+END
+IPenaltyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/abcd/!svn/ver/1568/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation/src/cu/uci/abcd/circulation/IPenaltyService.java
+END
+IReservationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/abcd/!svn/ver/1552/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.circulation/src/cu/uci/abcd/circulation/IReservationService.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/abcd/!svn/ver/1387/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.platform/src/cu/uci/abos/platform/listener
+END
+MainMenuResizeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/abcd/!svn/ver/905/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.platform/src/cu/uci/abos/platform/listener/MainMenuResizeListener.java
+END
+ContentResizeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/abcd/!svn/ver/692/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.platform/src/cu/uci/abos/platform/listener/ContentResizeListener.java
+END
+DropDownSelectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/abcd/!svn/ver/692/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.platform/src/cu/uci/abos/platform/listener/DropDownSelectionListener.java
+END
+LocaleResetListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/abcd/!svn/ver/692/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.platform/src/cu/uci/abos/platform/listener/LocaleResetListener.java
+END

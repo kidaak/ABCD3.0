@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/abcd/!svn/ver/1572/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dao/src/cu/uci/abcd/dao/circulation
+END
+PenaltyDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/abcd/!svn/ver/1572/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dao/src/cu/uci/abcd/dao/circulation/PenaltyDAO.java
+END
+ReservationDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/abcd/!svn/ver/1326/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dao/src/cu/uci/abcd/dao/circulation/ReservationDAO.java
+END
+TransactionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/abcd/!svn/ver/1326/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dao/src/cu/uci/abcd/dao/circulation/TransactionDAO.java
+END
+LoanUserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/abcd/!svn/ver/1560/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dao/src/cu/uci/abcd/dao/circulation/LoanUserDAO.java
+END
+LoanUserTypeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/abcd/!svn/ver/1472/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.dao/src/cu/uci/abcd/dao/circulation/LoanUserTypeDAO.java
+END

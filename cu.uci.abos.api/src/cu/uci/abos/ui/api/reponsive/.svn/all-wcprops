@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/abcd/!svn/ver/459/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.api/src/cu/uci/abos/ui/api/reponsive
+END
+ScaleData.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/abcd/!svn/ver/459/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.api/src/cu/uci/abos/ui/api/reponsive/ScaleData.java
+END
+ScaleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/abcd/!svn/ver/459/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.api/src/cu/uci/abos/ui/api/reponsive/ScaleProvider.java
+END
+ScaleLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/abcd/!svn/ver/459/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.api/src/cu/uci/abos/ui/api/reponsive/ScaleLayout.java
+END
+Scale.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/abcd/!svn/ver/459/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.api/src/cu/uci/abos/ui/api/reponsive/Scale.java
+END
+ScaleEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/abcd/!svn/ver/459/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.api/src/cu/uci/abos/ui/api/reponsive/ScaleEvent.java
+END
+ScaleDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/abcd/!svn/ver/459/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.api/src/cu/uci/abos/ui/api/reponsive/ScaleDetail.java
+END
+ScaleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/abcd/!svn/ver/459/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.api/src/cu/uci/abos/ui/api/reponsive/ScaleListener.java
+END

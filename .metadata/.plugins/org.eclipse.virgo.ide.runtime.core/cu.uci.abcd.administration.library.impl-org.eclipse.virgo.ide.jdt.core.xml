@@ -1,0 +1,74 @@
+<classpath>
+<classpathentry kind="lib" path="/home/leandro/ABCD-3.0-Work/repository/usr/cu.uci.abcd.dao-1.0.0.jar">
+	<attributes>
+		<attribute name="org.eclipse.virgo.ide.jdt.core.CLASSPATH_ENTRY" value="true"/>
+	</attributes>
+	<accessrules>
+		<accessrule kind="accessible" pattern="cu/uci/abcd/dao/common/*"/>
+		<accessrule kind="accessible" pattern="cu/uci/abcd/dao/management/library/*"/>
+		<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
+	</accessrules>
+</classpathentry>
+<classpathentry kind="lib" path="/home/leandro/ABCD-3.0-Work/repository/usr/cu.uci.abcd.domain-1.0.0.jar">
+	<attributes>
+		<attribute name="org.eclipse.virgo.ide.jdt.core.CLASSPATH_ENTRY" value="true"/>
+	</attributes>
+	<accessrules>
+		<accessrule kind="accessible" pattern="cu/uci/abcd/domain/common/*"/>
+		<accessrule kind="accessible" pattern="cu/uci/abcd/domain/management/library/*"/>
+		<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
+	</accessrules>
+</classpathentry>
+<classpathentry kind="lib" path="/home/leandro/ABCD-3.0-Work/repository/ext/javax.persistence_2.0.4.v201112161009.jar">
+	<attributes>
+		<attribute name="org.eclipse.virgo.ide.jdt.core.CLASSPATH_ENTRY" value="true"/>
+	</attributes>
+	<accessrules>
+		<accessrule kind="accessible" pattern="javax/persistence/*"/>
+		<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
+	</accessrules>
+</classpathentry>
+<classpathentry kind="lib" path="/home/leandro/ABCD-3.0-Work/repository/usr/spring-data-commons-core-1.4.1.RELEASE.jar">
+	<attributes>
+		<attribute name="org.eclipse.virgo.ide.jdt.core.CLASSPATH_ENTRY" value="true"/>
+	</attributes>
+	<accessrules>
+		<accessrule kind="accessible" pattern="org/springframework/data/domain/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/annotation/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/authentication/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/config/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/convert/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/crossstore/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/domain/jaxb/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/history/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/mapping/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/mapping/context/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/mapping/model/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/querydsl/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/repository/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/repository/cdi/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/repository/config/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/repository/core/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/repository/core/support/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/repository/history/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/repository/history/support/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/repository/init/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/repository/query/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/repository/query/parser/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/repository/support/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/repository/util/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/util/*"/>
+		<accessrule kind="accessible" pattern="org/springframework/data/web/*"/>
+		<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
+	</accessrules>
+</classpathentry>
+<classpathentry kind="lib" path="/home/leandro/ABCD-3.0-Work/repository/usr/spring-data-jpa-1.2.1.RELEASE.jar">
+	<attributes>
+		<attribute name="org.eclipse.virgo.ide.jdt.core.CLASSPATH_ENTRY" value="true"/>
+	</attributes>
+	<accessrules>
+		<accessrule kind="accessible" pattern="org/springframework/data/jpa/domain/*"/>
+		<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
+	</accessrules>
+</classpathentry>
+</classpath>

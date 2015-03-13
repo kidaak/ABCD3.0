@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.1%Foundation-1.1"/>
+	<classpathentry kind="con" path="org.eclipse.virgo.ide.jdt.core.MANIFEST_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/leandro/ABCD-3.0-Work/repository/usr/jisis-core.jar">
+		<attributes>
+			<attribute name="org.eclipse.virgo.ide.jdt.core.CLASSPATH_ENTRY" value="true"/>
+		</attributes>
+		<accessrules>
+			<accessrule kind="accessible" pattern="org/unesco/jisis/corelib/exceptions/*"/>
+			<accessrule kind="accessible" pattern="org/unesco/jisis/corelib/record/*"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="src" path="/cu.uci.abcd.dataprovider.jisis"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

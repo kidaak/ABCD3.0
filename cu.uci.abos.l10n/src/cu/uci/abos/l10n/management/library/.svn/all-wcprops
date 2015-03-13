@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/abcd/!svn/ver/1391/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.l10n/src/cu/uci/abos/l10n/management/library
+END
+AbosMessages_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/abcd/!svn/ver/1391/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.l10n/src/cu/uci/abos/l10n/management/library/AbosMessages_en.properties
+END
+AbosMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/abcd/!svn/ver/1391/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.l10n/src/cu/uci/abos/l10n/management/library/AbosMessages.java
+END
+AbosMessages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/abcd/!svn/ver/1391/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.l10n/src/cu/uci/abos/l10n/management/library/AbosMessages_es.properties
+END

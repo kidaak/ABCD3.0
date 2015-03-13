@@ -1,0 +1,30 @@
+<classpath>
+<classpathentry kind="lib" path="/home/leandro/ABCD-3.0-Work/repository/usr/cu.uci.abos.core.ui-1.0.0.jar">
+	<attributes>
+		<attribute name="org.eclipse.virgo.ide.jdt.core.CLASSPATH_ENTRY" value="true"/>
+	</attributes>
+	<accessrules>
+		<accessrule kind="accessible" pattern="cu/uci/abos/core/ui/*"/>
+		<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
+	</accessrules>
+</classpathentry>
+<classpathentry kind="lib" path="/home/leandro/ABCD-3.0-Work/repository/usr/cu.uci.abos.l10n-1.0.0.jar">
+	<attributes>
+		<attribute name="org.eclipse.virgo.ide.jdt.core.CLASSPATH_ENTRY" value="true"/>
+	</attributes>
+	<accessrules>
+		<accessrule kind="accessible" pattern="cu/uci/abos/l10n/*"/>
+		<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
+	</accessrules>
+</classpathentry>
+<classpathentry kind="lib" path="/home/leandro/ABCD-3.0-Work/repository/usr/cu.uci.abos.ui.api-1.0.0.jar">
+	<attributes>
+		<attribute name="org.eclipse.virgo.ide.jdt.core.CLASSPATH_ENTRY" value="true"/>
+	</attributes>
+	<accessrules>
+		<accessrule kind="accessible" pattern="cu/uci/abos/ui/api/*"/>
+		<accessrule kind="accessible" pattern="cu/uci/abos/util/api/*"/>
+		<accessrule ignoreifbetter="true" kind="nonaccessible" pattern="**/*"/>
+	</accessrules>
+</classpathentry>
+</classpath>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+		http://www.springframework.org/schema/beans
+		http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+		
+	 <bean id="libraryService" class="cu.uci.abcd.administration.library.impl.LibraryServiceImpl" />
+	 <bean id="formationCourseService" class="cu.uci.abcd.administration.library.impl.FormationCourseServiceImpl" />
+	 <bean id="personService" class="cu.uci.abcd.administration.library.impl.PersonServiceImpl" />
+	 <bean id="providerService" class="cu.uci.abcd.administration.library.impl.ProviderServiceImpl" />
+	 <bean id="coinService" class="cu.uci.abcd.administration.library.impl.CoinServiceImpl" />
+	 <bean id="workerTypeService" class="cu.uci.abcd.administration.library.impl.WorkerTypeServiceImpl" />
+	 <bean id="workerService" class="cu.uci.abcd.administration.library.impl.WorkerServiceImpl" />
+	 <bean id="penaltyEquationService" class="cu.uci.abcd.administration.library.impl.PenaltyEquationServiceImpl" />
+	 <bean id="postalAddressService" class="cu.uci.abcd.administration.library.impl.PostalAddressServiceImpl" />
+	 <bean id="emailAddressService" class="cu.uci.abcd.administration.library.impl.EmailAddressServiceImpl" />
+	 
+	 
+	 
+</beans> 

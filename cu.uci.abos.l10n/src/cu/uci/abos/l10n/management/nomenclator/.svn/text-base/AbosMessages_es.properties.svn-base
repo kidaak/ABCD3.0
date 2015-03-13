@@ -1,0 +1,63 @@
+
+
+
+# // Administrar Nomencladores
+# LABEL
+LABEL_SEARCH_CRITERIA                      = Criterios de B&uacute;squeda
+LABEL_USER                                 = Usuario
+LABEL_TYPE_OF_USER                         = Tipo de Usuario de Pr&eacute;stamo
+LABEL_NAME_LASTNAME                        = Nombre y Apellidos
+LABEL_DATA_LAST_UPDATING                   = Datos de la Ultima Actualizaci&oacute;n
+LABEL_DATE                                 = Fecha
+LABEL_DESCRIPTION                          = Descripci&oacute;n
+LABEL_NOMENCLATOR_LIST                     = Listado de Nomencladores
+LABEL_NOMENCLATOR_DATA                     = Datos del Nomenclador
+LABEL_NOMENCLATOR_TYPE                     = Tipo de Nomenclador
+LABEL_NOMENCLATOR_VALUE                    = Valor del Nomenclador
+LABEL_VALUE                                = Valor
+LABEL_USED                                 = Usado
+LABEL_TYPE_OF_RECORD                       = Tipo de Registro
+LABEL_TYPE_OF_WORKER                       = Tipo de Trabajador
+
+
+#Nombre de las Interfaces
+NAME_UI_MANAGE_NOMENCLATOR                 = Administrar Nomenclador
+NAME_UI_REGISTER_NOMENCLATOR               = Registrar Nomenclador
+NAME_UI_UPDATE_NOMENCLATOR                 = Modificar Nomenclador
+NAME_UI_WATCH_NOMENCLATOR                  = Ver Nomenclador
+
+
+#BUTTONS 
+BUTTON_LOG_IN            = Entrar
+BUTTON_NEW               = Nuevo
+BUTTON_ACEPT             = Aceptar
+BUTTON_UPDATE            = Actualizar
+BUTTON_CLOSE             = Cerrar
+BUTTON_CANCEL            = Cancelar
+BUTTON_MODIFY            = Modificar
+BUTTON_ADD               = Adicionar
+BUTTON_INSERT            = Insertar
+BUTTON_EXPORT_TO_EXCEL   = Exportar a Hoja de C&aacute;lculo 
+BUTTON_EXPORT_TO_PDF     = Exportar a PDF 
+BUTTON_RETURN            = Devolver
+BUTTON_VALIDATE          = Validar
+BUTTON_CONSULT           = Consultar
+BUTTON_NEW_SEARCH        = Nueva B&uacute;squeda
+BUTTON_ASSOCIATE         = Asociar
+BUTTON_DISSOCIATE        = Disociar
+BUTTON_RENEW             = Renovar
+BUTTON_CURRENT_STATUS    = Estado Actual
+BUTTON_HISTORY           = Historial
+BUTTON_LOSS_REGISTER     = Registrar P&eacute;rdida
+BUTTON_LOAN              = Prestar
+BUTTON_APPROVE_ALL       = Aprobar todo
+BUTTON_REJECT_ALL        = Rechazar todo
+BUTTON_DELETE            = Eliminar
+BUTTON_SEARCH            = Buscar
+BUTTON_MORE_OPTIONS      = M&aacute;s opciones
+BUTTON_START_SEARCH      = Iniciar b&uacute;squeda
+BUTTON_ATTACH            = Adjuntar
+BUTTON_SAVE              = Guardar
+BUTTON_EDIT              = Editar
+BUTTON_ERASE             = Borrar
+BUTTON_ACEPT_ALL		 = Aceptar todo

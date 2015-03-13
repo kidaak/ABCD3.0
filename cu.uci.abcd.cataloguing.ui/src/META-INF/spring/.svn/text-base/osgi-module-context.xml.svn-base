@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans:beans xmlns="http://www.springframework.org/schema/osgi"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:beans="http://www.springframework.org/schema/beans"
+	xsi:schemaLocation="http://www.springframework.org/schema/osgi
+		http://www.springframework.org/schema/osgi/spring-osgi.xsd
+		http://www.springframework.org/schema/beans
+		http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<service ref="AssociateThesaurusTerms" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+			<beans:entry key="type" value="abcd" />
+			<beans:entry key="class"
+				value="cu.uci.abcd.cataloguing.ui.AssociateThesaurusTerms" />
+		</service-properties>
+	</service>
+
+	<service ref="AttachDigitalFile" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+			<beans:entry key="type" value="abcd" />
+			<beans:entry key="class"
+				value="cu.uci.abcd.cataloguing.ui.AttachDigitalFile" />
+		</service-properties>
+	</service>
+
+	<service ref="ConsultAuthorities" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+			<beans:entry key="type" value="abcd" />
+			<beans:entry key="class"
+				value="cu.uci.abcd.cataloguing.ui.ConsultAuthorities" />
+		</service-properties>
+	</service>
+
+	<service ref="ConsultCatalog" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+			<beans:entry key="type" value="abcd" />
+			<beans:entry key="class"
+				value="cu.uci.abcd.cataloguing.ui.ConsultCatalog" />
+		</service-properties>
+	</service>
+
+	<service ref="ConsultMaterialsCataloger" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+			<beans:entry key="type" value="abcd" />
+			<beans:entry key="class"
+				value="cu.uci.abcd.cataloguing.ui.ConsultMaterialsCataloger" />
+		</service-properties>
+	</service>
+
+	<service ref="ConsultSubscriptionPeriodicalPublication"
+		interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+			<beans:entry key="type" value="abcd" />
+			<beans:entry key="class"
+				value="cu.uci.abcd.cataloguing.ui.ConsultSubscriptionPeriodicalPublication" />
+		</service-properties>
+	</service>
+
+	<service ref="FindServersZ3950" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+			<beans:entry key="type" value="abcd" />
+			<beans:entry key="class"
+				value="cu.uci.abcd.cataloguing.ui.FindServersZ3950" />
+		</service-properties>
+	</service>
+
+	<service ref="NewSubscription" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+			<beans:entry key="type" value="abcd" />
+			<beans:entry key="class"
+				value="cu.uci.abcd.cataloguing.ui.NewSubscription" />
+		</service-properties>
+	</service>
+
+	<service ref="NewSubscription1" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+			<beans:entry key="type" value="abcd" />
+			<beans:entry key="class"
+				value="cu.uci.abcd.cataloguing.ui.NewSubscription1" />
+		</service-properties>
+	</service>
+
+	<service ref="NewSubscription2" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+			<beans:entry key="type" value="abcd" />
+			<beans:entry key="class"
+				value="cu.uci.abcd.cataloguing.ui.NewSubscription2" />
+		</service-properties>
+	</service>
+
+	<service ref="PredictionPattern" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+			<beans:entry key="type" value="abcd" />
+			<beans:entry key="class"
+				value="cu.uci.abcd.cataloguing.ui.PredictionPattern" />
+		</service-properties>
+	</service>
+
+	<service ref="SearchAuthorities" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+			<beans:entry key="type" value="abcd" />
+			<beans:entry key="class"
+				value="cu.uci.abcd.cataloguing.ui.SearchAuthorities" />
+		</service-properties>
+	</service>
+
+	<service ref="RegistrarRegistroEjemplar" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+			<beans:entry key="type" value="abcd" />
+			<beans:entry key="class" value="cu.uci.abcd.cataloguing.ui.RegistrarRegistroEjemplar" />
+		</service-properties>
+	</service>
+	
+	<service ref="RegistrarRegistroAutoridades" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+			<beans:entry key="type" value="abcd" />
+			<beans:entry key="class" value="cu.uci.abcd.cataloguing.ui.RegistrarRegistroAutoridades" />
+		</service-properties>
+	</service>
+	
+	<service ref="AttachDigitalFile2" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+			<beans:entry key="type" value="abcd" />
+			<beans:entry key="class" value="cu.uci.abcd.cataloguing.ui.AttachDigitalFile2" />
+		</service-properties>
+	</service>
+
+	<reference id="dataBaseManager" interface="cu.uci.abcd.cataloguing.IDataBaseManager"
+		availability="optional">
+		<listener bind-method="bind" ref="registerService" />
+	</reference>
+
+	<service ref="registerContributor" interface="cu.uci.abos.ui.api.IContributorFactory">
+		<service-properties>
+			<beans:entry key="type" value="abcd" />
+
+			<beans:entry key="class" value="cu.uci.abcd.cataloguing.ui.RegistrarRegistroEjemplar" />
+			<beans:entry key="viewController" value-ref="registerService" />
+
+		</service-properties>
+	</service>
+
+</beans:beans> 

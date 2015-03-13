@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-Version: 1.0.0
+Bundle-Name: Impl
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: cu.uci.abcd.adquisition.impl
+Import-Package: cu.uci.abcd.adquisicion;version="1.0.0",
+ cu.uci.abcd.dataprovider.jisis;version="[1.1.0,1.1.0]",
+ cu.uci.abcd.dataprovider.jisis.exception;version="[1.0.0,1.0.0]",
+ cu.uci.abcd.dataprovider.jisis.search.option;version="[1.0.0,1.0.0]",
+ cu.uci.abcd.domain.common,
+ org.unesco.jisis.corelib.exceptions,
+ org.unesco.jisis.corelib.record
+
