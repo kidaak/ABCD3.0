@@ -1,34 +1,0 @@
-9
-
-dir
-1723
-https://isec-repo.uci.cu/abcd/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abos.widget.template.component/src
-https://isec-repo.uci.cu/abcd
-
-
-
-2015-02-17T16:31:05.193447Z
-1717
-bpuentes
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-a8adb394-62eb-466e-a248-1ec43a99ef23
-
-META-INF
-dir
-
-cu
-dir
-

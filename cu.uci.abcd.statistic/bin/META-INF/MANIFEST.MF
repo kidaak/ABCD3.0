@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Bundle-SymbolicName: cu.uci.abcd.statistic
-Bundle-Version: 1.0.0
-Bundle-Name: Statistic
-Bundle-ManifestVersion: 2
-

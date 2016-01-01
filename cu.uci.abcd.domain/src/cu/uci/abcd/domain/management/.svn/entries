@@ -1,37 +1,0 @@
-9
-
-dir
-1723
-https://isec-repo.uci.cu/abcd/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/cu.uci.abcd.domain/src/cu/uci/abcd/domain/management
-https://isec-repo.uci.cu/abcd
-
-
-
-2015-02-16T21:11:04.045887Z
-1696
-eberto
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-a8adb394-62eb-466e-a248-1ec43a99ef23
-
-db
-dir
-
-library
-dir
-
-security
-dir
-

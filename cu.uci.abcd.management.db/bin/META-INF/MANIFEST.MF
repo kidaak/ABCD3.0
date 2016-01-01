@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Bundle-SymbolicName: cu.uci.abcd.management.db
-Bundle-Version: 1.0.0
-Bundle-Name: Api
-Bundle-ManifestVersion: 2
-Export-Package: cu.uci.abcd.management.db;version="1.0.0"
-

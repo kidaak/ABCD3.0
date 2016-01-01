@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Bundle-SymbolicName: cu.uci.abcd.comun
-Bundle-Version: 1.0.0
-Bundle-Name: Comun
-Bundle-ManifestVersion: 2
-

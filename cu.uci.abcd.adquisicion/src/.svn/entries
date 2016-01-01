@@ -1,34 +1,0 @@
-9
-
-dir
-1413
-https://isec-repo.uci.cu/abcd/trunk/ARQUITECTURA_ABCD_V3/OSGi/src/modulos/cu.uci.abcd.adquisicion/src
-https://isec-repo.uci.cu/abcd
-
-
-
-2014-12-17T13:42:44.975950Z
-1221
-reyniercs
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-a8adb394-62eb-466e-a248-1ec43a99ef23
-
-META-INF
-dir
-
-cu
-dir
-
